@@ -30,8 +30,5 @@ The project is a part of the 'Machine Learning with Python Labs' course, DSTI, 2
   pip install -r requirements.txt
   ```
 
-## GitHub  
-Explore the full project: [GitHub Repository](https://github.com/AndreiRRR/DSTI-Project-Diabeties-Prediction-In-Women/tree/main)  
-
 ## License  
 MIT License. See `LICENSE` for details.  
